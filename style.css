@@ -1,0 +1,1101 @@
+body{
+
+    padding:0;
+    margin: 0;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+    
+}
+
+.bg-img{
+    background: url('images/banner2.png');
+    height: 95vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.desti_img
+{
+    background: url('images/desti_ban.png');
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.logo
+{
+    width: 50%;
+    height: 20%;
+    margin-left:30%;
+}
+
+.cardTxt
+{
+    position: absolute;
+    top: 50%;
+    left: 8%;
+    width: 50%;
+    padding: 30px;
+    background-color: rgba(0, 0,0, 0.5);
+}
+
+
+
+.cardTxt button{
+    border-radius: 0;
+    width: 50%;
+    font-weight: bold;
+    background-color: rgb(161, 243, 39);
+    border-color: greenyellow;
+}
+
+.trip img
+{
+    width: 30%;
+    margin-left:40%;
+    padding-top: 10%;
+    
+}
+
+.trip h5{
+    text-transform: uppercase;
+    text-align: center;
+    padding-top: 20px;
+    margin-left: 10%;
+}
+
+.EcoTour
+{
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgb(170, 192, 221)),url('images/beach.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.EcoTour h3
+{
+    color: white;
+    text-align: center;
+    padding-top:10%;
+    padding-bottom: 5%;
+}
+
+.activity{
+    padding: 30px;
+}
+
+.activity img
+{
+    width:20%;
+    height: 30%; 
+    filter: invert(100%);
+    margin:50px;
+}
+
+.deep-west_img
+{
+    width: 100%;
+    height: 80vh;
+    background-image: linear-gradient(rgba(0,0,0,0.4),rgb(170, 192, 221)),url('images/sky.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+    color: white;
+   
+}
+
+.deep-west_vid
+{
+    /* width: 50%;
+    height: 50%; */
+    /* border:2px solid blue; */
+    margin-top: 60px;
+    margin-left: 40%;
+}
+
+.west_text
+{
+    width:40%;
+    height:58%;
+    position:absolute;
+    padding:50px;
+    margin-left: 8%;
+    background-color:#fff;
+    color:rgb(90, 88, 88);
+    margin-top: 5%;
+    text-align:left;
+}
+
+.west_btn
+{
+    border:none;
+    width:30%;
+    height: 20%;
+    /* position: relative; */
+    border-radius: 0;
+    background-color: greenyellow;
+    /* margin-top: px; */
+    margin-left: 61.8%;
+}
+
+.lorem
+{
+    padding:10%;
+}
+
+.lorem button
+{
+    border-radius: 0%;
+    font-size: 14px;
+    background-color: rgb(120, 155, 67);
+    padding:20px;
+    border: none;
+    width: 200px;
+}
+
+.lorem-img
+{
+    background-image: url('images/team.jfif');
+    width:200px;
+    height:200px;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-radius: 100%;
+    padding-bottom: 7%;
+    margin-top: 5%;
+   
+    
+}
+
+.img_text
+{
+    width:30%;
+    height:20%;
+    margin-left: 40%;
+    padding-bottom: 2%;
+    margin-top: -10%;
+}
+
+.comma
+{
+    float:left;
+    padding:5px;
+    font-size: 50px;
+    font-family: Georgia;
+    font-weight:bold;
+  
+}
+
+.footer1
+{
+    width: 100%;
+    height:250px;
+    background:rgb(120, 155, 67);
+    
+
+}
+
+.footer1 img{
+    width:50px;
+    filter: invert(100%);
+    margin:40px;
+    margin-left: 20%;
+    /* border: 2px solid red; */
+}
+
+.btn-date
+{
+    background:cornsilk;
+    color:black;
+    border-radius: 0;
+    margin-top: 10%;
+    border: none;
+    font-size: 12px;
+    padding: 20px;
+    width: 40%;
+    font-weight: bold;
+}
+
+.book
+{
+    font-size: 30px;
+    font-weight: lighter;
+}    
+
+.book span{
+    color: white;
+}
+
+.footer2
+{
+    background: url('images/footer.png');
+    width: 100%;
+    padding-top: 4%;
+}
+
+.footer2 h5{
+    color: yellowgreen;
+    font-weight: bold;
+}
+
+.footer2 h4{
+    margin-left: 30%;
+    color: white;
+}
+
+.footer2 p{
+    font-size: 14px;
+    margin-left:30%;
+    color: white;
+    padding-top: 2px;
+    
+}
+
+.text{
+    color: white;
+    padding-bottom: 5px;
+}
+
+
+.text i{
+   color: white;
+   font-size: 25px;
+   padding: 2%;
+}
+
+
+/*-------------------- Destination styling----------------- */
+.cardTxt2
+{
+    position: relative;
+    top: 30%;
+    left: 8%;
+    width: 23%;
+    padding: 20px;
+    background-color: rgba(0, 0,0, 0.5);
+}
+
+.Paradise_text
+{
+    text-align: center;
+    margin: 0 auto;
+    width:70%;
+    font-weight: bolder;
+}
+
+
+.Paradise_text p
+{
+    text-align: center;
+    color: grey;
+    font-weight: lighter;
+}
+
+.Caribbean_img1{
+    background: url('images/tea.jpg');
+    width: 450px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+
+.Caribbean_img2{
+    background: url('images/desti_beach.jpg');
+    width: 450px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+
+.Caribbean_img3{
+    background: url('images/desti_tiger.jpg');
+    width: 445px;
+    height: 400px;
+    background-position: center;
+    background-size: cover;
+    border: 2px solid white;
+}
+
+
+.boat_img
+{
+    background: url('images/beach_boat.png');
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.boatTxt
+{
+    position: relative;
+    top: 20%;
+    left: 20%;
+    width: 50%;
+    padding: 50px;
+    /* border: 2px solid white; */
+    text-align: center;
+    background-color: rgba(0, 0,0, 0.5);
+}
+
+
+.west_text2
+{
+    width:40%;
+    height:50%;
+    position:absolute;
+    padding:20px;
+    margin-left: 8%;
+    background-color:#fff;
+    color:rgb(90, 88, 88);
+    margin-top: 5%;
+    text-align:left;
+}
+
+.deep-west_vid2
+{   
+    background-image: url('images/mountain.jpg');
+    width: 45%;
+    height: 70%;
+    background-position: center;
+    background-size: cover;
+    margin-top: 50px;
+    margin-left: 40%;
+}
+.west_btn
+{
+    border:none;
+    width:45%;
+    height: 15%;
+    position: absolute;
+    border-radius: 0;
+    background-color: greenyellow;
+    margin-top: 5px;
+    margin-left: 46%;
+}
+
+
+/* --------------------------------------Private Trips----------------------------------- */
+.trip_img
+{
+    background: url('images/private_trip.png');
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.cardTxt3
+    {
+        position: relative;
+        top: 20%;
+        left: 10%;
+        width: 30%;
+        height: 50%;
+        padding: 70px;
+        background-color: rgba(0, 0,0, 0.5);
+    }
+
+.trip_text
+{
+    text-align: center;
+    width: 100%;
+}
+
+.Tailor
+{
+    background-color: rgba(10, 141, 10, 0.774);
+    color:white;
+    padding:30px;
+    border: 12px solid white;
+  
+}
+
+.groups{
+    background-color: rgba(3, 78, 3, 0.774);
+    color:white;
+    padding:30px;
+    border: 12px solid white;
+}
+
+.btnStart
+{ 
+   border: none;
+   border-radius: 0;
+   background-color: greenyellow;
+   padding: 10px;
+   width: 20%;
+   
+}
+
+.GetText
+{
+    text-align: center;
+    font-weight: bold;
+}
+
+.GetText p{
+    color: grey;
+    font-weight: lighter;
+}
+
+.TourImg1
+{   
+    background: url('images/garden_eden.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    border: 1px solid white;
+}
+
+
+.TourImg2
+{   
+    background: url('images/paradise.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    border: 1px solid white;
+}
+
+.TourImg3
+{   
+    background: url('images/cloud_forest.jpg');
+    background-size: cover;
+    height: 100vh;
+    color: white;
+    border: 1px solid white;
+}
+
+.TourText
+{
+   background-color: rgba(0,0,0,0.4);
+   margin-top: 40%;
+   padding:10px;
+}
+
+
+.local-guide
+{
+    width: 90px;
+    height: 200px;
+    border-radius: 50%;
+    background-position: center;
+    background-size: cover;
+  
+   
+} 
+
+.btn-guide
+{
+    border: none;
+    border-radius: 0;
+    background-color: yellowgreen;
+    margin: 10px;
+    width: 30%;
+}
+
+.text-guide
+{
+    margin-top: 3%;
+}
+
+/* --------------------------------------Single Trip-------------------------------------- */
+.trip_img
+{
+    background: url('images/horse_riding.jpg');
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.cardTxt3
+    {
+        position: relative;
+        top: 20%;
+        left: 30%;
+        width: 35%;
+        height: 50%;
+        padding: 3%;
+        background-color: rgba(0, 0,0, 0.5);
+        text-align: center;
+    }  
+    
+    
+.btn-card
+{
+    border: none;
+    border-radius: 0;
+    background-color: yellowgreen;
+    width: 200px;
+    height: 40px;
+}
+
+.Paraiso_txt
+{
+    /* border:2px solid firebrick; */
+    width: 60%;
+}
+
+.horseMenu a
+{
+    text-decoration: none;
+    color: black;
+    font-weight: bolder;
+    
+}
+
+
+.green_hover a:hover
+{
+    border-bottom: 2px solid yellowgreen;
+}
+
+.highlights-text
+{
+    width: 35%;
+    height: 70%;
+    background-color: rgb(228, 222, 222);
+    padding: 2%;
+    margin: 1%;
+}
+
+
+.highlights-text img
+{
+    width: 5%;
+    height: 5%;
+    margin: 2%;
+}
+
+.highlight-sub
+{
+    background-color: lightgray;
+    width: 100%;
+    height: 10%;
+    padding: 8%;
+    text-align: center;
+}
+
+.highlight-map
+{
+    width: 61%;
+    height: 70%;   
+    padding: 1%;
+    margin: 1%;
+}
+
+.desc
+{
+    padding: 2%;
+}
+
+.desc button
+{
+    width: 100%;
+    border-radius: 0;
+    background-color: yellowgreen;
+    border: 0;
+
+}
+
+.loc
+{
+    margin-left: 16%;
+}
+
+.align
+{
+    margin-left: 5%;
+}
+
+.hour1
+{
+    height:10%;
+    width:20%;
+    padding-top: 5%;
+    color: yellowgreen;
+    border-right: 2px solid yellowgreen;
+
+}
+.circle
+{
+    background-color: yellowgreen;
+    width: 5%;
+    height: 5%;
+    border-radius: 100%;
+    margin-left:18% ;
+    margin-top: 2%;
+   
+}
+
+/* ----------------------------Tour List------------------------------- */
+.tourList_img
+{
+    background: url('images/paradise.jpg');
+    height: 70vh;
+    width: 100%;
+    background-position: center;
+    background-size: cover;
+}
+
+.cardTxt4
+{
+    position: relative;
+    top: 20%;
+    left: 10%;
+    width: 30%;
+    height: 50%;
+    padding: 3%;
+    background-color: rgba(0, 0,0, 0.5);
+    text-align: left;
+}  
+
+.List_trip img
+{
+    width: 60%;
+    height: 30vh;
+    margin-left:30%;
+    padding-top: 10%;
+}
+
+.TourImg img
+{
+    /* width: 500px; */
+    height: 600px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin: 12%;
+   
+} 
+
+.TOURS
+{
+    text-align: center;
+    width: 10%;
+    background-color: white;
+    /* margin-left: 10%; */
+    padding: 3%;
+}
+
+.List_trip p{
+    text-align: center;
+    padding: 2%;
+    margin: 3%;
+    font-weight: bold;
+}
+
+.strch_text
+{
+    border-left: 2px solid grey;
+    padding: 2%;
+}
+
+#stretch img
+{
+    width: 5%;
+    height: 5%;
+    margin: 2%;
+}
+
+#stretch
+{
+    width: 35%;
+    height: 70%;
+    background-color: rgb(228, 222, 222);
+    padding: 2%;
+    margin: 1%;
+}
+
+.TourText2
+{
+   background-color: rgba(0,0,0,0.4);
+   margin-top: 50%;
+   padding:10px;
+}
+
+.TourText2 label
+{
+    background-color: yellowgreen;
+    color: white; 
+    width: 20%;
+    text-align: center;
+    padding: 2%;
+}
+
+.form-group 
+{
+    text-align: left;
+}
+
+
+/* ----------------------------------------------------------------------------------------------------- */
+
+/* ------------------------------------Media Queries--------------------------------------------------- */ 
+@media only screen and (max-width: 600px)
+{
+        
+    .bg-img
+    {
+        position: relative;
+        top: 20%;
+        height: 95vh;
+        width: 100%;
+        background-position: center;
+        background-size: cover;
+    }
+            
+    .logo
+    {
+        width: 50%;
+        height: 20%;
+        margin-right:30%;
+    }
+
+    .cardTxt
+    {
+        position: absolute;
+        top: 50%;
+        left: 5%;
+        width: 70%;
+        padding: 20px;
+        background-color: rgba(0, 0,0, 0.5);
+    }
+
+    .cardTxt button{
+        border-radius: 0;
+        width: 50%;
+        font-weight: bold;
+        background-color: rgb(161, 243, 39);
+        border-color: greenyellow;
+    }
+
+        
+    .west_text
+    {
+        width:80%;
+        height:67vh;
+        position:absolute;
+        padding:50px;
+        margin-left: 8%;
+        background-color:#fff;
+        color:rgb(90, 88, 88);
+        margin-top: 5%;
+        text-align:left;
+    }
+
+    /* MQ */
+    .west_btn
+    {
+        border:none;
+        width:50%;
+        height: 10%;
+        position: absolute;
+        bottom: 1%;
+        border-radius: 0;
+        background-color: greenyellow;
+        margin-top: 5px;
+        margin-left: 39%;
+    }
+
+    .text_img
+    {
+        position: relative;
+        bottom: 45%;
+        font-size: 16px;
+        height: 80%;
+    }
+
+    .activity img
+    {
+        padding:0px;
+        width:50px;
+        height:50px;
+    }
+
+    /* MQ */
+    .activity_1
+    {
+        height:75vh;
+        padding: 0;
+        width:100%;
+        margin-bottom: 20%;
+        /* object-fit: contain; */
+    }
+
+    .EcoTour
+    {
+        width: 100%;
+        height: 100vh;
+        background-image: linear-gradient(rgba(0,0,0,0.4),rgb(170, 192, 221)),url('images/beach.png');
+        background-repeat: no-repeat;
+        background-size: cover;
+        text-align: center;
+        color: white;
+    }
+
+    .EcoTour h3
+    {
+        color: white;
+        text-align: center;
+        /* padding-top:0%;
+        padding-bottom: 5%; */
+    }
+
+    .activity img{
+        width:50px;
+        height:50px;
+        padding: 0;
+        margin: 10px;
+    }
+
+    .lorem h3{
+        font-size: 24px;
+        text-align: center;
+    }
+
+    
+    .lorem button
+    {
+        border-radius: 0%;
+        font-size: 14px;
+        background-color: rgb(120, 155, 67);
+        padding:15px;
+        border: none;
+        margin-left: 30%;
+        width: 170px;
+    }
+
+        
+    .lorem-img
+    {
+        background-image: url('images/team.jfif');
+        width:170px;
+        height:170px;
+        background-position: center;
+        background-repeat: no-repeat;
+        background-size: cover;
+        border-radius: 100%;
+        padding-bottom: 7%;
+        margin-left: 33%;
+        margin-bottom: 15%;
+    }
+
+    .img_text
+    {
+       width: 50%;
+       height: 20%;
+       margin-left: 20%;
+       text-align: center;
+       margin-bottom: 2%;
+       /* border: 2px solid black; */
+       
+    }
+
+    .btn-date
+    {
+       margin: 0%;
+       margin-left: 30%;
+    }
+
+    .footer2 h4{
+        margin-left: 30%;
+        color: white;
+    }
+    
+    .footer2 p{
+        font-size: 14px;
+        margin-left:0%;
+        color: white;
+        padding-top: 2px;
+        
+    }
+    
+
+    /* -----------------destination media query--------------- */
+
+    .cardTxt2
+    {
+        position: relative;
+        top: 20%;
+        left: 1%;
+        width: 50%;
+        padding: 20px;
+        background-color: rgba(0, 0,0, 0.5);
+    }
+
+        
+    .Caribbean_img1{
+        background: url('images/tea.jpg');
+        width: 600px;
+        height: 400px;
+        background-size: cover;
+        border: 2px solid white;
+        scroll-behavior: none;
+    }
+
+
+    .Caribbean_img2{
+        background: url('images/desti_beach.jpg');
+        width: 600px;
+        height: 400px;
+        background-size: cover;
+        border: 2px solid white;
+    }
+
+
+    .Caribbean_img3{
+        background: url('images/desti_tiger.jpg');
+        width: 600px;
+        height: 400px;
+        background-size: cover;
+        border: 2px solid white;
+    }
+
+        
+    .boatTxt
+    {
+        position: relative;
+        top: 15%;
+        left: 15%;
+        width: 70%;
+        padding: 50px;
+        /* border: 2px solid white; */
+        text-align: center;
+        background-color: rgba(0, 0,0, 0.5);
+    }
+
+        
+    .deep-west_img
+    {
+        width: 100vw;
+        height: 80vh;
+        background-image: linear-gradient(rgba(0,0,0,0.4),rgb(170, 192, 221)),url('images/sky.png');
+        background-size: cover;
+        text-align: center;
+        color: white;
+    }
+
+    .west_text2
+    {
+        width:75%;
+        height:70%;
+        position:absolute;
+        /* padding:50px; */
+        margin-left: 8%;
+        background-color:rgba(0, 0,0, 0.5);
+        color:white;
+        text-align:left;
+    }
+
+    .deep-west_vid2
+    {   
+        background-image: url('images/rainbow.jpg');
+        width: 60%;
+        height: 80%;
+        background-size: cover;
+        margin-top: 50px;
+        margin-left: 40%;
+    }
+
+    /* -------------------------------Private Trips MQ-------------------------------- */
+    .cardTxt3 {
+        position: relative;
+        top: 15%;
+        left: 10%;
+        width: 70%;
+        height: 60%;
+        padding: 50px;    ;
+        background-color: rgba(0, 0,0, 0.5);
+    }
+
+        
+    /* MQ */
+    .btnStart
+    { 
+        position: relative;
+        left: 3%;
+        border: none;
+        border-radius: 0;
+        background-color: greenyellow;
+        padding: 5px;
+        width: 30%;
+        
+    }
+
+    
+    .cardTxt4
+    {
+        position: relative;
+        top: 20%;
+        left: 10%;
+        width: 60%;
+        height: 50%;
+        padding: 3%;
+        background-color: rgba(0, 0,0, 0.5);
+        text-align: left;
+    }  
+
+    /* MQ */
+    .TourImg
+    {
+        width: 20%;
+        height: 300px;
+        background-repeat: no-repeat;
+        background-position: center;
+        background-size: cover;
+    } 
+
+    /* MQ */
+    .TourText
+    {
+       background-color: rgba(0,0,0,0.4);
+       margin-top: 50%;
+       padding:10px;
+    }
+
+    /* MQ  */
+    .local-guide
+    {
+        width: 15%;
+        height: 100vh;
+        border-radius: 50%;
+        background-position: center;
+        background-size: cover;
+    } 
+    
+
+
+
+
+   
+} /* End Of Media Query*/
+
+
+
+
+
+/* Extra small devices (phones, 600px and down) */
+/* @media only screen and (max-width: 600px) {...} */
+
+/* Small devices (portrait tablets and large phones, 600px and up) */
+/* @media only screen and (min-width: 600px) {...} */
+
+/* Medium devices (landscape tablets, 768px and up) */
+/* @media only screen and (min-width: 768px) {...} */
+
+/* Large devices (laptops/desktops, 992px and up) */
+/* @media only screen and (min-width: 992px) {...} */
+
+/* Extra large devices (large laptops
